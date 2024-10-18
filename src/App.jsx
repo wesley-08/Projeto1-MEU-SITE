@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <div className="App">
-      <img src="./.react.png" alt="" />
+      <img src="./.public/react.png" alt="" />
       <h1>React</h1>
       <p>A biblioteca para interfaces de usuário web e nativas.</p>
 
